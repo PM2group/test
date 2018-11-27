@@ -9,3 +9,4 @@ takadatakada
 uoooooooo
 unchi
 ddddddd
+mergeのテスト
