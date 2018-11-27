@@ -8,3 +8,4 @@ admit
 takadatakada
 uoooooooo
 unchi
+mergeのテスト
